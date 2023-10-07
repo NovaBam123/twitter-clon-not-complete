@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "user01",
+      "email": "user01@mail.com",
+      "password": "Asd1234",
+      "id": 1
+    },
+    {
+      "username": "user02",
+      "email": "user02@mail.com",
+      "password": "Asd123",
+      "id": 2
+    },
+    {
+      "username": "Ewink",
+      "email": "Ewink@mail.com",
+      "password": "Asd1234",
+      "id": 3
+    }
+  ],
+  "tweets": [
+    {
+      "username": "user 1",
+      "email": "user1@gmail.com",
+      "tweet": "Selamat pagi !",
+      "id": 1
+    }
+  ]
+}
